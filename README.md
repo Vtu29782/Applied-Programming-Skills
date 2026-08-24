@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vtu29782/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vtu29782/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Vtu29782/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [1480-running-sum-of-1d-array](https://github.com/Vtu29782/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Vtu29782/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Vtu29782/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
