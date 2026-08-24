@@ -1,5 +1,7 @@
+
 class Solution {
     public int[] getSumAbsoluteDifferences(int[] nums) {
+        // int s = Arrays.stream(nums).sum();
         int s = 0, t = 0;
         for (int x : nums) {
             s += x;
